@@ -18,8 +18,6 @@ class MyApp extends StatelessWidget {
 }
 
 class gridexam extends StatelessWidget {
-  int dx = 0;
-  int dy = 0;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
